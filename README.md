@@ -3,4 +3,4 @@ It's a web app  made using HTML , CSS , Bootstrap , NodeJS , EJS  and with the d
 
 # Link
 * https://lit-basin-60926.herokuapp.com/
-* https://ks894.csb.app/ (React)
+* https://ks894.csb.app/ (React App)
